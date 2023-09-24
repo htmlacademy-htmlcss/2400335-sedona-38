@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Екатерина Набатова](https://up.htmlacademy.ru/htmlcss/38/user/2400335).
-* Наставник: `Неизвестно`.
+* Наставник: `Наставник: `Виктор Рыбаков`(https://htmlacademy.ru/profile/viktor-rybakov)`.
 
 ---
 
